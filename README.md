@@ -135,4 +135,4 @@ Feel free to reach out for collaboration, learning discussions, or project feedb
 
 # License
 
-This project is open for learning and educational purposes.
+This project is open for learning and educational purposes. So anyone can do anything with it on there risk.
